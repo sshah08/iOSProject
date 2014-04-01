@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C9338727-18E8-4C22-8B88-F53BBFAE3656</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SplitIt!</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0DDCA97F-8295-48FA-9479-02D3F1809CAC</key>
+		<string>ssh://github.com/sshah08/SplitIT.git</string>
+		<key>DD123140-B31C-4161-9201-A2463543EEA9</key>
+		<string>ssh://github.com/sshah08/iOSProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SplitIt!/SplitIt!.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0DDCA97F-8295-48FA-9479-02D3F1809CAC</key>
+		<string>../..</string>
+		<key>DD123140-B31C-4161-9201-A2463543EEA9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/sshah08/SplitIT.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DD123140-B31C-4161-9201-A2463543EEA9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DD123140-B31C-4161-9201-A2463543EEA9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSProject</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0DDCA97F-8295-48FA-9479-02D3F1809CAC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SplitIt!</string>
+		</dict>
+	</array>
+</dict>
+</plist>
